@@ -1,16 +1,95 @@
-## Hi there 👋
+# Factory Floor to GitHub — Automation Portfolio
 
-<!--
-**Mehmet-Haydar/Mehmet-Haydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **What happens when a valve driver doesn't match the coil?**
+> 
+> 15 years of field experience turning into code. Real troubleshooting cases, PID simulations, and control system projects — documenting my journey from calibration technician to automation engineer. More coming soon.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi, I'm Mehmet Haydar
+
+**Electrical & Electronics Engineer** transitioning into **Automation Engineering**
+
+📍 Based in Germany | 🔧 15+ Years Experience | 🎯 Open to Opportunities
+
+---
+
+## 🛠️ What I Do
+
+- **Industrial Maintenance** — Troubleshooting PLCs, servo drives, soft starters, and motor controls
+- **PLC Programming** — Siemens S7-1500/1200, TIA Portal, SCL/Structured Text
+- **Calibration & Metrology** — 10 years in Turkey's largest military calibration lab
+- **Panel Manufacturing** — Led 40-person team, delivered 3000+ control panels
+
+---
+
+## 💻 Tech Stack
+
+**PLC & Automation**
+![Siemens](https://img.shields.io/badge/Siemens-S7--1500%2F1200-00A1E4?style=flat-square&logo=siemens&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-V17+-00A1E4?style=flat-square)
+![SCL](https://img.shields.io/badge/SCL-Structured_Text-00A1E4?style=flat-square)
+
+**Protocols**
+![Profinet](https://img.shields.io/badge/Profinet-Industrial-green?style=flat-square)
+![OPC-UA](https://img.shields.io/badge/OPC--UA-Communication-green?style=flat-square)
+![Modbus](https://img.shields.io/badge/Modbus-RTU%2FTCP-green?style=flat-square)
+
+**Software & Tools**
+![Python](https://img.shields.io/badge/Python-Simulation-3776AB?style=flat-square&logo=python&logoColor=white)
+![EPLAN](https://img.shields.io/badge/EPLAN-Electrical_Design-red?style=flat-square)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [pump-pid-simulation](https://github.com/Mehmet-Haydar/pump-pid-simulation) | PID controller simulation for industrial pump systems — tuning, response analysis, and visualization | Python |
+| [Stewart_Platform](https://github.com/Mehmet-Haydar/Stewart_Platform) | 6-DOF parallel robot inverse kinematics analysis (University Thesis Project) | Python, V-REP |
+
+> 🔜 **Coming soon:** Industrial troubleshooting notes, PLC alarm analyzer, calibration tracker, Modbus/OPC-UA bridge
+
+---
+
+## 📈 Career Path
+
+```
+2008-2010  Technical Training (Calibration)
+    ↓
+2010-2020  Calibration Technician — Turkish Air Force
+    ↓
+2022-2023  Production Manager — Panel Manufacturing (3000+ panels)
+    ↓
+2023-now   Industrial Electrician — Germany
+    ↓
+   next    → Automation Engineer
+```
+
+---
+
+## 📜 Certifications
+
+- 🎖️ USAF AFMETCAL — Air Force Metrology & Calibration (2012, 2014, 2016)
+- 📚 Currently studying: TIA Portal Certification
+- 🗺️ Roadmap: ISA CCST → ISA CAP → TÜV Functional Safety (IEC 61511)
+
+---
+
+## 🌍 Languages
+
+🇹🇷 Turkish (Native) • 🇩🇪 German (B1-B2) • 🇬🇧 English (Technical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-haydar-ee/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmethaydar555@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building the bridge between calibration precision and automation engineering.</i>
+</p>
