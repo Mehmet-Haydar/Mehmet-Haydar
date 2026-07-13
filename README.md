@@ -1,8 +1,8 @@
 # Factory Floor to GitHub — Automation Portfolio
 
 > **What happens when a valve driver doesn't match the coil?**
-> 
-> 15 years of field experience turning into code. Real troubleshooting cases, PID simulations, and control system projects — documenting my journey from calibration technician to automation engineer. More coming soon.
+>
+> 15 years of field experience turning into code. My flagship project, **AUTOMATION_FACTORY**, is an AI-assisted framework that turns legacy PLC code into standardized, engineer-reviewed automation projects — plus PID simulations and control system projects along the way.
 
 ---
 
@@ -46,10 +46,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [automation-factory](https://github.com/Mehmet-Haydar/automation-factory) ⭐ | AI-assisted framework: legacy PLC code (S5/S7) → standardized 14-point requirements pack → engineer-reviewed SCL code for Siemens TIA Portal. Proven end-to-end — 0 compile errors on a real legacy machine. | Python, TIA Portal, SCL |
 | [pump-pid-simulation](https://github.com/Mehmet-Haydar/pump-pid-simulation) | PID controller simulation for industrial pump systems — tuning, response analysis, and visualization | Python |
 | [Stewart_Platform](https://github.com/Mehmet-Haydar/Stewart_Platform) | 6-DOF parallel robot inverse kinematics analysis (University Thesis Project) | Python, V-REP |
 
-> 🔜 **Coming soon:** Industrial troubleshooting notes, PLC alarm analyzer, calibration tracker, Modbus/OPC-UA bridge
+> 🔜 **Coming soon:** PLC alarm analyzer, calibration tracker, Modbus/OPC-UA bridge
 
 ---
 
@@ -60,9 +61,11 @@
     ↓
 2010-2020  Calibration Technician — Turkish Air Force
     ↓
+2020-2021  Automation Engineering Intern (PLC / TIA Portal)
+    ↓
 2022-2023  Production Manager — Panel Manufacturing (3000+ panels)
     ↓
-2023-now   Industrial Electrician — Germany
+2024-now   Industrial Electrician — Germany
     ↓
    next    → Automation Engineer
 ```
