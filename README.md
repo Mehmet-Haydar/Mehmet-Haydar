@@ -2,7 +2,7 @@
 
 > **What happens when a valve driver doesn't match the coil?**
 >
-> 16+ years of field experience turning into code. My flagship project, **AUTOMATION_FACTORY**, is an AI-assisted framework that turns legacy PLC code into standardized, engineer-reviewed automation projects — validated end-to-end on a real, undocumented S5 machine.
+> 16+ years of field experience turning into code. My flagship project, **AUTOMATION_FACTORY**, is an AI-assisted framework that turns legacy PLC code into standardized, engineer-reviewed automation projects — tested against a real, undocumented S5 machine's code.
 
 ---
 
@@ -46,7 +46,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [automation-factory](https://github.com/Mehmet-Haydar/automation-factory) ⭐ | AI-assisted framework: legacy PLC code (S5/S7) → standardized 14-point requirements pack → engineer-reviewed SCL code for Siemens TIA Portal. 1600+ automated tests. Validated end-to-end on a real, undocumented S5 machine (~300 I/O) — zero compile errors, complete 14-document pack. | Python, TIA Portal, SCL |
+| [automation-factory](https://github.com/Mehmet-Haydar/automation-factory) ⭐ | AI-assisted framework: legacy PLC code (S5/S7) → standardized 14-point requirements pack → engineer-reviewed SCL code for Siemens TIA Portal. 1600+ automated tests. Tested against a real, undocumented S5 machine's code (~300 I/O) — zero compile errors, complete 14-document pack. Not yet field-deployed. | Python, TIA Portal, SCL |
 
 > 🔜 **Coming soon:** PLC alarm analyzer, calibration tracker, Modbus/OPC-UA bridge
 
